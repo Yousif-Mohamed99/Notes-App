@@ -1,16 +1,23 @@
-# notes_app
+# Flutter Notes App
 
-A new Flutter project.
+A clean and intuitive note-taking app built with Flutter, featuring Riverpod for state management and SQFlite for local storage.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+✅ **Create notes with a title and content**
+✅ **Choose a color for better visual organization**
+✅ **Edit existing notes**
+✅ **Delete notes with a button**
+✅ **Persistent storage using SQFlite**
+✅ **Efficient state management with Riverpod**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Flutter** – Cross-platform UI framework
+**Riverpod** – Robust state management
+**SQFlite** – Local SQLite database
+
+## Deliverables
+- APK Demo: https://drive.google.com/drive/folders/1vWUmZAa3fp7zdgLs81Yx_3jb5cHxtTZZ?usp=sharing (Installable on Android devices)
+- Source code fully documented in this repository
